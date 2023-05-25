@@ -1,0 +1,61 @@
+body{background-color: white;
+    max-width: max-content;
+
+}
+
+.navbar {
+    background-color: #948285;
+    width:1570px;
+    height: 70px;
+
+    
+
+}a{
+    position: relative;top: 11px;left: 35%;
+    font-size: 30px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+h2{text-align: left;
+    padding-top: 0%;
+    ;
+    
+}
+ 
+.home-page{text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    margin: 10px;
+    color:  #000000;
+}
+.contact-page{text-align: left;
+font-size:30px;
+text-decoration: none;
+margin: 10px;
+color: #000000;
+} 
+
+h5{text-align: left;}
+
+.info{text-align: left;}
+
+form{text-align: left;
+padding: 0%;
+position: relative; bottom:-2px;
+}
+
+.Project-page{text-align: center;
+font-size: 30px;
+text-decoration:none;
+margin: 10px;
+color:#000000;
+} 
+.container-image{display: flex;
+position: relative; right:30px; top: -200px;
+
+
+}
+.container-home{
+    position: relative;left: 800px;top: 300px;
+
+}
